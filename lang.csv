@@ -1,0 +1,20 @@
+language,creator,year
+Python,Guido van Rossum,1991
+C,Dennis Ritchie,1972
+C++,Bjarne Stroustrup,1985
+Java,James Gosling,1995
+JavaScript,Brendan Eich,1995
+C#,Anders Hejlsberg,2000
+Go,Robert Griesemer; Rob Pike; Ken Thompson,2009
+Rust,Graydon Hoare,2010
+Ruby,Yukihiro Matsumoto,1995
+PHP,Rasmus Lerdorf,1995
+Swift,Chris Lattner,2014
+Kotlin,JetBrains,2011
+TypeScript,Microsoft,2012
+Scala,Martin Odersky,2004
+Perl,Larry Wall,1987
+1,2,3
+4,5,6
+8,5,7
+12,37,26
