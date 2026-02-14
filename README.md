@@ -1,6 +1,6 @@
 # Python CSV Practice
 
-This repository contains basic practice examples for working with CSV files in Python and pushing projects to GitHub.
+This repository contains basic practice examples for working with CSV files in Python.
 
 ---
 
@@ -8,9 +8,8 @@ This repository contains basic practice examples for working with CSV files in P
 
 - Creating CSV files
 - Writing rows using `csv.writer`
-- Understanding file modes (`w`, `a`)
+- Understanding file modes (`r`, `w`, `a`)
 - Fixing newline issues
-- Basic Git workflow (`git init` → `git push`)
 
 ---
 
